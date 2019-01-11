@@ -1,0 +1,2 @@
+# Waste-Detection
+GOOGLE HACKATHON PROJECT
